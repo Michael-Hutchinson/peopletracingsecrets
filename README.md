@@ -12,7 +12,7 @@ Create a static landing page to integrate with Wordpress and Woocommerce to sell
 * Woocommerce
 * CMS
 
-# Website Link
+# Website Links
 
 [https://adoring-swirles-f9969e.netlify.app/](https://adoring-swirles-f9969e.netlify.app/)
 
